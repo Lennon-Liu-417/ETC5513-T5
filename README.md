@@ -4,4 +4,4 @@ This is an example
 
 Added Feature1 branch
 
-Show the Feature1 branch
+Make a conflict
